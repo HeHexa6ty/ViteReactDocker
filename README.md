@@ -5,6 +5,8 @@ Required precreated project with vite if you need only `dockerfile` and `docker-
 npm create vite@latest
 ```
 
+Classic docker stuff:
+
 ```
 docker build -t my-vite-react .
 ```
